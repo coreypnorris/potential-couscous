@@ -16,7 +16,7 @@ import { IonicPage, NavController, NavParams } from 'ionic-angular';
 export class DetailPage {
   item: any;
   searchQuery: string = '';
-  moves: any;
+  special_moves: any;
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
     this.item = navParams.get('item');
@@ -24,7 +24,7 @@ export class DetailPage {
   }
 
   initializeItems() {
-    this.moves = this.item.moves;
+    this.special_moves = this.item.special_moves;
   }
 
   getItems(ev: any) {
@@ -36,8 +36,8 @@ export class DetailPage {
 
     // if the value is an empty string don't filter the items
     if (val && val.trim() != '') {
-      this.moves = this.moves.filter((move) => {
-        return (move.toLowerCase().indexOf(val.toLowerCase()) > -1);
+      this.special_moves = this.special_moves.filter((move) => {
+        return (move.command.toString().toLowerCase().indexOf(val.toLowerCase()) > -1);
       })
     }
   }

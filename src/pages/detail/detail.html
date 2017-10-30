@@ -4,21 +4,21 @@
   See http://ionicframework.com/docs/components/#navigation for more info on
   Ionic pages and navigation.
 -->
-<!-- <ion-header>
-  <ion-navbar>
-    <ion-title>{{item.name}}</ion-title>
-  </ion-navbar>
-</ion-header> -->
+<ion-content>
+  <ion-header>
 
-<!-- <ion-content padding>
-  <ion-avatar item-start>
-    <img src="{{item.img}}">
-  </ion-avatar>
-</ion-content> -->
+    <ion-navbar>
+      <ion-title>{{item.name}}</ion-title>
+    </ion-navbar>
 
-<ion-searchbar (ionInput)="getItems($event)"></ion-searchbar>
-<ion-list>
-  <ion-item *ngFor="let move of moves">
-    {{ move.command }}
-  </ion-item>
-</ion-list>
+    <img src="{{item.img}}" style="display: block; margin: 10px auto;">
+    <ion-searchbar (ionInput)="getItems($event)" placeholder="Special Moves"></ion-searchbar>
+
+    <ion-list>
+      <ion-item *ngFor="let move of special_moves">
+        {{ move.command }}
+      </ion-item>
+    </ion-list>
+
+  </ion-header>
+</ion-content>
