@@ -1,7 +1,8 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
 
-import { AboutPage } from '../about/about';
+import { HomePage } from '../home/home';
+import { SpecialmovesPage } from '../specialmoves/specialmoves';
 
 /**
  * Generated class for the DetailPage page.
@@ -17,33 +18,12 @@ import { AboutPage } from '../about/about';
 })
 export class DetailPage {
   item: any;
-  // searchQuery: string = '';
-  // special_moves: any;
 
-  tab1Root = AboutPage;
+  tab1Root = SpecialmovesPage;
+  tab4Root = HomePage;
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
     this.item = navParams.get('item');
-    // this.initializeItems();
   }
-
-  // initializeItems() {
-  //   this.special_moves = this.item.special_moves;
-  // }
-
-  // getItems(ev: any) {
-  //   // Reset items back to all of the items
-  //   this.initializeItems();
-
-  //   // set val to the value of the searchbar
-  //   let val = ev.target.value;
-
-  //   // if the value is an empty string don't filter the items
-  //   if (val && val.trim() != '') {
-  //     this.special_moves = this.special_moves.filter((move) => {
-  //       return (move.command.toString().toLowerCase().indexOf(val.toLowerCase()) > -1);
-  //     })
-  //   }
-  // }
 
 }
