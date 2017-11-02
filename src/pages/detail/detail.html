@@ -4,9 +4,50 @@
   See http://ionicframework.com/docs/components/#navigation for more info on
   Ionic pages and navigation.
 -->
-<ion-tabs>
-  <ion-tab [root]="tab1Root" [rootParams]="item" tabTitle="Special Moves"></ion-tab>
-  <ion-tab [root]="tab1Root" [rootParams]="item" tabTitle="Basic Moves"></ion-tab>
-  <ion-tab [root]="tab1Root" [rootParams]="item" tabTitle="About Character"></ion-tab>
-  <ion-tab [root]="tab4Root" [rootParams]="item" tabTitle="Back"></ion-tab>
-</ion-tabs>
+<!-- <ion-tabs>
+  <ion-tab [root]="tab1Root" [rootParams]="character" tabTitle="Special Moves"></ion-tab>
+  <ion-tab [root]="tab1Root" [rootParams]="character" tabTitle="Basic Moves"></ion-tab>
+  <ion-tab [root]="tab1Root" [rootParams]="character" tabTitle="About Character"></ion-tab>
+  <ion-tab (click)="goHome()" tabTitle="Back"></ion-tab>
+</ion-tabs> -->
+
+<ion-content>
+  <ion-header>
+
+    <ion-navbar>
+      <ion-title>{{character.name}}</ion-title>
+    </ion-navbar>
+
+    <img src="{{character.img}}" style="display: block; margin: 10px auto;">
+
+    <div padding>
+      <ion-segment [(ngModel)]="infotype">
+        <ion-segment-button value="specialmoves">
+          Special Moves
+        </ion-segment-button>
+        <ion-segment-button value="basicmoves">
+          Basic Moves
+        </ion-segment-button>
+        <ion-segment-button value="characterdetails">
+          About
+        </ion-segment-button>
+      </ion-segment>
+    </div>
+
+    <div [ngSwitch]="infotype">
+      <div *ngSwitchCase="'specialmoves'">
+        <ion-searchbar (ionInput)="getItems($event)" placeholder="Special Moves"></ion-searchbar>
+        <ion-list>
+          <ion-item *ngFor="let move of special_moves">
+            {{ move.command }}
+          </ion-item>
+        </ion-list>
+
+      </div>
+
+      <div *ngSwitchCase="'basicmoves'">TODO</div>
+      <div *ngSwitchCase="'characterdetails'">TODO</div>
+    </div>
+
+  </ion-header>
+</ion-content>
