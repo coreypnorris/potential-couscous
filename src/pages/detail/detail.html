@@ -36,16 +36,23 @@
 
     <div [ngSwitch]="infotype">
       <div *ngSwitchCase="'specialmoves'">
-        <ion-searchbar (ionInput)="getItems($event)" placeholder="Special Moves"></ion-searchbar>
+        <ion-searchbar (ionInput)="getSpecialMoves($event)" placeholder="Special Moves"></ion-searchbar>
         <ion-list>
           <ion-item *ngFor="let move of special_moves">
             {{ move.command }}
           </ion-item>
         </ion-list>
-
       </div>
 
-      <div *ngSwitchCase="'basicmoves'">TODO</div>
+      <div *ngSwitchCase="'basicmoves'">
+        <ion-searchbar (ionInput)="getBasicMoves($event)" placeholder="Basic Moves"></ion-searchbar>
+        <ion-list>
+          <ion-item *ngFor="let move of basic_moves">
+            {{ move.command }}
+          </ion-item>
+        </ion-list>
+      </div>
+
       <div *ngSwitchCase="'characterdetails'">TODO</div>
     </div>
 

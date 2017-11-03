@@ -16,29 +16,40 @@ export class DetailPage {
   character: any;
   infotype: string;
   special_moves: any;
+  basic_moves: any;
 
   constructor(public navCtrl: NavController, public navParams: NavParams) {
     this.character = navParams.data.item;
-    this.initializeItems();
+    this.initializeSpecialMoves();
+    this.initializeBasicMoves();
     this.infotype = "specialmoves"; // default segment button
   }
 
-  initializeItems() {
+  initializeSpecialMoves() {
     this.special_moves = this.character.special_moves;
   }
 
-  getItems(ev: any) {
-    // Reset items back to all of the items
-    this.initializeItems();
+  initializeBasicMoves() {
+    this.basic_moves = this.character.basic_moves;
+  }
 
-    // set val to the value of the searchbar
+  getSpecialMoves(ev: any) {
+    this.initializeSpecialMoves();
     let val = ev.target.value;
-
-    // if the value is an empty string don't filter the items
     if (val && val.trim() != '') {
       this.special_moves = this.special_moves.filter((move) => {
         return (move.command.toString().toLowerCase().indexOf(val.toLowerCase()) > -1);
       })
     }
   }
+
+  getBasicMoves(ev: any) {
+    this.initializeBasicMoves();
+    let val = ev.target.value;
+    if (val && val.trim() != '') {
+      this.basic_moves = this.basic_moves.filter((move) => {
+        return (move.command.toString().toLowerCase().indexOf(val.toLowerCase()) > -1);
+      })
+    }
+  } 
 }
