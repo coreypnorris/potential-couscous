@@ -38,7 +38,7 @@
       <div *ngSwitchCase="'specialmoves'">
         <ion-searchbar (ionInput)="getSpecialMoves($event)" placeholder="Special Moves"></ion-searchbar>
         <ion-list>
-          <ion-item *ngFor="let move of special_moves">
+          <ion-item *ngFor="let move of special_moves" (click)="moveSelected(move)">
             {{ move.command }}
           </ion-item>
         </ion-list>

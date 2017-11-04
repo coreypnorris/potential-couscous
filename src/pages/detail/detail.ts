@@ -1,5 +1,7 @@
 import { Component } from '@angular/core';
 import { IonicPage, NavController, NavParams } from 'ionic-angular';
+import { MovePage } from '../move/move';
+
 /**
  * Generated class for the DetailPage page.
  *
@@ -51,5 +53,12 @@ export class DetailPage {
         return (move.command.toString().toLowerCase().indexOf(val.toLowerCase()) > -1);
       })
     }
-  } 
+  }
+
+  moveSelected(move) {
+    this.navCtrl.push(MovePage, {
+      move: move
+    });
+  }
+
 }
