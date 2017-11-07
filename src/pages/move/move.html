@@ -49,7 +49,7 @@
         Block Advantage
       </ion-label>
       <div item-content>
-        {{move.block_frame}}
+        {{move.block_frame > 0 ? '+' : null}}{{move.block_frame}}
       </div>
     </ion-item>
 
@@ -58,7 +58,7 @@
         Hit Advantage
       </ion-label>
       <div item-content>
-        {{move.hit_frame}}
+        {{move.hit_frame > 0 ? '+' : null}}{{move.hit_frame}}
       </div>
     </ion-item>
 
@@ -67,7 +67,7 @@
         Counter Hit Advantage
       </ion-label>
       <div item-content>
-        {{move.counter_hit_frame}}
+        {{move.counter_hit_frame > 0 ? '+' : null}}{{move.counter_hit_frame}}
       </div>
     </ion-item>
 

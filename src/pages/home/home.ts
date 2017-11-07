@@ -14,6 +14,10 @@ export class HomePage {
       {
         "name": "Akuma",
         "motto": "CAN YOU WITHSTAND MY POWER?",
+        "description": "A mysterious fighter… a demon. He finds himself in the middle of the Mishima blood feud by a pre-existing relationship with Kazumi, Hehiachi's wife. He makes his debut in Tekken 7 promising to fulfill a debt owed to Kazumi.",
+        "country": "Unknown",
+        "first_appearance": "Tekken 7",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/akuma-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -1562,7 +1566,11 @@ export class HomePage {
       },
       {
         "name": "Alisa",
-        "motto": "",
+        "motto": "I AM ALISA, NICE TO MEET YOU",
+        "description": "An android created by Dr. Bosconovitch as a bodyguard for Jin Kazama. Her design itself is modeled after Bosconovitch's own lost daughter. Her fighting capabilities are extremely high. She can perform attacks with high mobility using arm-mounted missiles and thrusters.",
+        "first_appearance": "Tekken 6",
+        "country": "Russia",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-russia.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/alisa-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -3811,7 +3819,11 @@ export class HomePage {
       },
       {
         "name": "Asuka",
-        "motto": "",
+        "motto": "WHEN YOU RESORT TO FIGHTING, EVERYONE LOSES",
+        "description": "Daughter of the Kazama Traditional Martial Arts School and known as 'Gang Mediator' in her hometown. Ever since she involved herself in a certain street fight, Lili has viewed her as a rival. She knows that Jin Kazama is her cousin and vows to take him down.",
+        "first_appearance": "Tekken 5",
+        "country": "Japan",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/asuka-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -5470,7 +5482,11 @@ export class HomePage {
       },
       {
         "name": "Bob",
-        "motto": "",
+        "motto": "SPEED AND WEIGHT!",
+        "description": "Once a fighter who had won the hearts of fans with his excellent sensibility and handsome good looks, he decided to transform himself completely by gaining weight to eliminate the perceived disadvantage he had in a fight due to his body type. His fans were disappointed, as on the outside it looked like he'd merely put on a few too many pounds, but Bob was definitely pleased with himself.",
+        "first_appearance": "Tekken 6",
+        "country": "United States of America",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-united-states-of-america.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/bob-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -7559,7 +7575,11 @@ export class HomePage {
       },
       {
         "name": "Bryan",
-        "motto": "",
+        "motto": "MWAHAHAHAHA! SO, WHICH ONE OF YOU WANTS TO DIE?",
+        "description": "A savage fighter who uses a kickboxing fighting style. He's reported to have died twice and was somehow revived each time. He once belonged to an international police force, but Dr. Abel and Dr. Bosconovitch made him a replicant with a perpetual generator that keeps him alive.",
+        "first_appearance": "Tekken 3",
+        "country": "United States of America",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-united-states-of-america.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/bryan-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -9638,7 +9658,11 @@ export class HomePage {
       },
       {
         "name": "Claudio",
-        "motto": "",
+        "motto": "THIS IS NO PLACE FOR AMATEURS.",
+        "description": "The Sirius Marksmen, a secret society of exorcists, has exerted a profound influence on European history for hundreds of years. The most powerful exorcist of the current generation is Claudio, who was visiting the Mishima Zaibatsu as their groups join forces to subdue a certain evil. After sharing information on the targets, Kazuya Mishima and Jin Kazama, Claudio left the control room only to be confronted by a young girl. He was about to call the guards when she demanded to be taken to Jin. A plan sprung to Claudios mind. He led her to the roof, and with a grin prepared to face her in combat.",
+        "country": "Italy",
+        "first_appearance": "Tekken 7",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-italy.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/claudio-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -10897,7 +10921,11 @@ export class HomePage {
       },
       {
         "name": "Devil Jin",
-        "motto": "",
+        "motto": "FEAR MY WRATH",
+        "description": "After he defeated Azazel, Jin Kazama was apprehended by UN troops. As his unconscious body was being transported by helicopter, he became possessed by his devil form, ripped free from his straitjacket, tore through the helicopter's fuselage with a powerful beam attack, and then escaped. Intermittently fending off the UNs attempts to recapture him, Devil Jin wandered the desert until he stumbled across a town in the Middle East. His arrival at the town's bazaar sent the civilians fleeing for their lives, turning the once buzzing settlement into an abandoned husk. That is until a certain someone showed his face...",
+        "country": "Unknown",
+        "first_appearance": "Tekken 5",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/devil-jin-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -12566,7 +12594,11 @@ export class HomePage {
       },
       {
         "name": "Dragunov",
-        "motto": "",
+        "motto": "...",
+        "description": "Sergei Dragunov entered the King of Iron Fist Tournament on army orders. At the designated arena of his first match, a woman appeared before him. There was something strangely familiar about her... It didnt take Dragunov long to figure out who she was, and he wasted no time in readying himself for combat.",
+        "country": "Russia",
+        "first_appearance": "Tekken 5",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-russia.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/dragunov-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -14995,7 +15027,11 @@ export class HomePage {
       },
       {
         "name": "Eddy",
-        "motto": "",
+        "motto": "DON'T THINK I'LL GO EASY ON YOU.",
+        "description": "Eddy Gordo went to G Corporation to exact revenge on Kazuya Mishima for murdering his father. After he'd taken out a crowd of guards, a young girl in a strange outfit stood before him, and struck a pose. Youre not getting past me, old man! Teehee! What did she mean by old man? Confused and irritated by her appearance and disrespectful tone, but aware of the threat she posed, Eddy prepared to fight.",
+        "country": "Brazil",
+        "first_appearance": "Tekken 3",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-brazil.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/eddy-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -17524,7 +17560,11 @@ export class HomePage {
       },
       {
         "name": "Eliza",
-        "motto": "",
+        "motto": "HEHEHE… YOU LOOK DELICIOUS.",
+        "description": "Eliza was only supposed to take a short nap, but she ended up sleeping for 600 years. Upon awakening, she found her powers as a vampire had faded to nothing. In an attempt to restore her strength, she consumed the blood of several victims. However, it wasn't enough. What she needed was the blood of someone with an intense spiritual force? Maybe then she would return to peak condition. But did such a person even exist in this era? No-one sprang to mind. Left with no other choice, Eliza headed for the old HQ of the clan of exorcists who had caused her no end of trouble when she last prowled the nights. Perhaps some of their descendants were still alive.",
+        "country": "Unknown",
+        "first_appearance": "Tekken Revolution",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/eliza-standard/thumbnail-headshot.png",
         "special_moves": [
           {
