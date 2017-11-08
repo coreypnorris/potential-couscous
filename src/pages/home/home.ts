@@ -18993,7 +18993,11 @@ export class HomePage {
       },
       {
         "name": "Feng",
-        "motto": "",
+        "motto": "COME ON!",
+        "description": "Feng Wei had always abided by what was written on the God Fist scroll: Defeat all other masters and conquer their styles; the perfect warrior transcends all to become the Dragon God. Having fought masters of many different styles, Feng returned to his childhood training ground to continue his intense training regime. Then one day, an unexpected visitor appeared before Feng: a mysterious man who exuded strength. When the man made it clear that his desire was to fight, Feng had no reason to refuse. He accepted his opponent's challenge in silence, and prepared to battle.",
+        "country": "China",
+        "first_appearance": "Tekken 5",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-china.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/feng-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -21082,7 +21086,11 @@ export class HomePage {
       },
       {
         "name": "Gigas",
-        "motto": "",
+        "motto": "DATA DELETED",
+        "description": "One of G Corporation's weapons divisions entered their latest biological weapon, Gigas, into the King of Iron Fist Tournament for two reasons: first, to pit the strength of their next-gen humanoid weapon against a similar weapon of G Corp's; and second, to provoke Heihachi Mishima. Ironically, the first battle was staged on the rooftop of G Corp's own Millennium Tower, possibly in retaliation for their affront to Heihachi. Unmoved by the striking beauty of the skyscraper, Gigas awaited his victim.",
+        "country": "Unknown",
+        "first_appearance": "Tekken 7",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/gigas-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -22531,7 +22539,11 @@ export class HomePage {
       },
       {
         "name": "Heihachi",
-        "motto": "",
+        "motto": "YOU FOOL! I AM INVINCIBLE!",
+        "description": "The original leader of the Mishima Zaibatsu, and the fighter known as the King of the Iron Fist. Heihachi continues to fight for control of the Mishima Zaibatsu against his son, Kazuya, and his grandson, Jin. After having recovered from the injuries he sustained in the suicide attack on him from the G Corporation's Jack units, Heihachi is back with an iron fist--and body to match.",
+        "country": "Japan",
+        "first_appearance": "Tekken",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/heihachi-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -24030,7 +24042,11 @@ export class HomePage {
       },
       {
         "name": "Hwoarang",
-        "motto": "",
+        "motto": "COME AT ME! I'LL TAKE YOU DOWN",
+        "description": "Hwoarang sees one man as his rival: Jin Kazama. Jin, CEO of the Mishima Zaibatsu, declared war against the world, and in the ensuing turmoil vanished suddenly, without a trace. Suspecting there is more to Jin's disappearance than meets the eye, Hwoarang vowed to track him down. With only a shred of reliable information at hand, he headed to the Middle East. After a series of dead leads, Hwoarang heard word that a demon had appeared in a town. Without a second thought, he got on his motorcycle and hammered down there. When he arrived, the place had been deserted, save for Jin Kazama in his devil form.",
+        "country": "South Korea",
+        "first_appearance": "Tekken 3",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-south-korea.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/hwoarang-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -26530,6 +26546,10 @@ export class HomePage {
       {
         "name": "Jack7",
         "motto": "",
+        "description": "It was no secret that G Corporation was locked in a power struggle with the Mishima Zaibatsu. However, within G Corp itself, another battle was raging: the battle to create the ultimate next-gen humanoid weapon. On one side was the development team behind the Jack series led by Jane; on the other was the research team responsible for Gigas, a bio-enhanced super human. With his massive size and uncanny mobility, Gigas was hailed for his versatility in combat, and some saw him as more than capable of dislodging the Jack series from its position as G Corp's premier weapon. Both teams entered their weapons into the King of Iron Fist Tournament to decide once and for all which was the best.",
+        "country": "Russia",
+        "first_appearance": "Tekken",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-russia.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/jack-7-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -28638,7 +28658,11 @@ export class HomePage {
       },
       {
         "name": "Jin",
-        "motto": "",
+        "motto": "POWER IS EVERYTHING",
+        "description": "The leader of the Mishima Zaibatsu and the man who declared war on the world. Fighting the Devil inside him which gets stronger everyday, he yearns to be rid of it once and for all. When his battle is over at last, will he find hope… or despair?",
+        "country": "Japan",
+        "first_appearance": "Tekken 3",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/jin-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -30317,7 +30341,11 @@ export class HomePage {
       },
       {
         "name": "Josie",
-        "motto": "",
+        "motto": "I GOT THIS!",
+        "description": "Josie Rizal tried her best to support her family by balancing two jobs. One as a model, and one as a professional kickboxer. One day, while she was out running on her usual training course along the mountain roads, she was suddenly confronted by an enormous, hairy creature! Josie screamed, and then fled half in tears, but the creature remained hot on her heels. Realizing she had little chance of escape, Josie abruptly came to a halt, then turned trembling, to face her feral foe...",
+        "country": "Phillppines",
+        "first_appearance": "Tekken 7",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-philippines.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/josie-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -31946,7 +31974,11 @@ export class HomePage {
       },
       {
         "name": "Katarina",
-        "motto": "",
+        "motto": "SORRY, BUT YOU'RE GONNA HAVE TO DIE.",
+        "description": "Katarina Alves lost both her parents at a young age, and spent several years at an orphanage before being adopted by a man she'd never met. Initially, Katarina rebelled against him using a whole manner of profane language, but the man's kindness and patience eventually wore her hard exterior down. In time, they grew close, though her penchant for profane language remained. One day, Katarina's adoptive father vanished. As much as she wanted to find him, she lacked the money to do so. But then she learned of the King of Iron Fist Tournament. The savage techniques the man had taught her gave Katarina hope that she could win and take the cash prize. The day of the first match arrived, and the arena was none other than the roof of G Corporation's Millennium Tower.",
+        "country": "Brazil",
+        "first_appearance": "Tekken 7",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-brazil.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/katarina-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -33345,7 +33377,11 @@ export class HomePage {
       },
       {
         "name": "Kazumi",
-        "motto": "",
+        "motto": "I WILL TEACH YOU THE MEANING OF FEAR.",
+        "description": "Kazumi Mishima, wife of Heihachi Mishima, is well versed in Hachijyo Karate. She was childhood friends with her husband Heihachi and eventually they fell in love. Through their love they birthed a healthy young boy. Fast forward a few years later, Heihachi would become the head of a huge organization called the Mishima Zaibatsu, with plans to conquer the world. Kazumi loved Heihachi unconditionally, but at the same time he was beginning to feel dangerous. In this state, Heihachi threw the world into a war and Kazumi took it upon herself to stop him.",
+        "country": "Japan",
+        "first_appearance": "Tekken 7",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/kazumi-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -34654,7 +34690,11 @@ export class HomePage {
       },
       {
         "name": "Kazuya",
-        "motto": "",
+        "motto": "IT'S TIME FOR YOU TO MEET YOUR END!",
+        "description": "Kazuya was raised as the heir to the Mishima Zaibatsu, but rebelled against his father Heihachi. After awakening the power of the devil within him, he's finally able to control it.",
+        "country": "Japan",
+        "first_appearance": "Tekken",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/kazuya-standard/thumbnail-headshot.png",
         "special_moves": [
           {
