@@ -36293,7 +36293,11 @@ export class HomePage {
       },
       {
         "name": "King",
-        "motto": "",
+        "motto": "LET'S DO THIS",
+        "description": "King is not only a masked professional wrestler, but also the proud owner of an orphanage. Recently, King's sworn friend and comrade, Craig Marduk, as well as the man King called his master, both engaged in a bloody fight which left them with critical injuries. King desperately wanted to come to his friends' rescue, but knew that their operations wouldn't come cheap. At the same time, King's orphanage was in constant danger owing to the war that raged between G Corporation and the Mishima Zaibatsu. Finding himself caught between a rock and a hard place, King entered the King of Iron Fist Tournament with his eyes set firmly on the cash prize.",
+        "country": "Mexico",
+        "first_appearance": "Tekken",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-mexico.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/king-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -38243,6 +38247,10 @@ export class HomePage {
       {
         "name": "Kuma",
         "motto": "",
+        "description": "The Mishima Zaibatsu dispatched Kuma, along with the Tekken Force, to the Philippines on the pretext of helping out with relief efforts after a monstrous typhoon. With the Zaibatsu's financial clout behind them, Kuma and the soldiers visited the stricken areas, gaining the trust of the locals. Before long, local youths, jobless after the disaster, came forward asking to join the Tekken Force. A recruitment test was quickly established and many young hopefuls went to the test location deep in the jungle. Unbeknownst to them, the final test was a fight against none other than Kuma himself! Some buckled under the pressure and quit, others were eliminated, but in the end one candidate remained: an athletic young woman. However, the girl took one look at Kuma and burst into tears! Kuma felt bad, but attacked anyway in order to complete his assignment.",
+        "country": "Unknown",
+        "first_appearance": "Tekken",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/kuma-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -40331,7 +40339,11 @@ export class HomePage {
       },
       {
         "name": "Lars",
-        "motto": "",
+        "motto": "THINK YOU CAN STOP ME?",
+        "description": "A former officer of the Mishima Zaibatsu's special military unit, the Tekken Force, Lars enacted a coup d'état and rebelled against his former employer. Lars continues to fight despite the loss of his fallen comrades, and his bloody rebellion is nowhere near finished.",
+        "country": "Sweden",
+        "first_appearance": "Tekken 6",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-sweden.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/lars-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -41880,7 +41892,11 @@ export class HomePage {
       },
       {
         "name": "Law",
-        "motto": "",
+        "motto": "THERE'S GOTTA BE SOME WAY I CAN MAKE SOME MONEY OFF THIS!",
+        "description": "Preoccupied with paying off his son's debts, Marshall Law didn't realize how many of his students had quit his dojo until it was almost too late. With a large sum still to repay, Law was running out of ideas. As a last resort, he decided to search for a capable fighter to run the dojo. He asked his friend Paul if he knew anyone, and in his usual manner, Paul said he himself would be the perfect candidate. However, thinking that the dojo would go bust in half a day if Paul took control, Law politely refused. Instead, he put the word out that if any strong fighters wanted to try out for the job, they should come and prove their skills in combat. Challenger after challenger appeared, but none of them were good enough for Law. Then, one day, Law heard a rumor that a martial artist living in rural China was set to be the next God Fist master. Seeing this as his best chance yet, Law set off for his ancestral homeland.",
+        "country": "United States of America",
+        "first_appearance": "Tekken",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-united-states-of-america.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/law-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -44489,7 +44505,11 @@ export class HomePage {
       },
       {
         "name": "Lee",
-        "motto": "",
+        "motto": "LEAVE IT TO ME. I WON'T DISAPPOINT.",
+        "description": "The adopted son of Heihachi Mishima, raised to be a rival for Kazuya Mishima. After abandoning the Zaibatsu for various reasons, he ended up idling his time away in the Bahamas as manager of his own company… until a certain event disturbed his permanent vacation and entwined his fate with the Zaibatsu once again.",
+        "country": "Japan",
+        "first_appearance": "Tekken",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/lee-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -46798,7 +46818,11 @@ export class HomePage {
       },
       {
         "name": "Leo",
-        "motto": "",
+        "motto": "GET READY!",
+        "description": "Leo entered the King of Iron Fist Tournament in the hope of uncovering more about his deceased mother, who had been a researcher for the Mishima Zaibatsu. When Leo learned that his battle arena was to be a Zaibatsu-owned dojo, he couldn't believe his luck. However, when he got there, the dojo was in ruin. The moonlight poured in through holes in the walls and roof, illuminating the floor with an eerie beauty. A short while later, a strange, floating silhouette appeared, and slowly glided toward Leo. The silhouette held a sword in its left hand that rotated at a mind-bending speed. What the hell was this thing? It looked like some kind of a flying squid or octopus! Was it a demon...? Then it finally dawned on Leo: This bizarre creature was his opponent. Cautiously, he prepared to fight.",
+        "country": "Germany",
+        "first_appearance": "Tekken 6",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-germany.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/leo-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -48677,7 +48701,11 @@ export class HomePage {
       },
       {
         "name": "Lili",
-        "motto": "",
+        "motto": "YOU SURELY DON'T BELIEVE… YOU CAN BEAT ME?",
+        "description": "Lili entered the King of Iron Fist Tournament again without telling her father this time either. There she was anyway, smiling as the rapturous crowd looked on and her opponent entered the arena. Lili was set to fight Asuka Kazama, someone she had personally considered her greatest rival for many years. If Lili saw the look of annoyance on Asuka's face, it didn't show; she just walked elegantly to the center of the ring like she owned it, all the while thanking Lady Luck for the opportunity to fight her rival.",
+        "country": "Monaco",
+        "first_appearance": "Tekken 5: Dark Resurrection",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-monaco.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/lili-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -50486,7 +50514,11 @@ export class HomePage {
       },
       {
         "name": "Lucky Chloe",
-        "motto": "",
+        "motto": "ARE YOU READY?",
+        "description": "Lucky Chloe is a pop sensation, and the face of the G Corporation brand. When a mysterious man burst into G Corp and took out guard after guard with dance-like techniques, Lucky Chloe fearlessly walked right up to him and blocked his path. She threw the man one of her trademark smiles and issued him a challenge: Fight her, and if he loses he'll have to work as her backup dancer! Without caring if he'd accepted the conditions or not, she prepared for battle.",
+        "country": "Unknown",
+        "first_appearance": "Tekken 7",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/lucky-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -52035,7 +52067,11 @@ export class HomePage {
       },
       {
         "name": "Master Raven",
-        "motto": "",
+        "motto": "IT'S JUST BUSINESS. DON'T TAKE IT PERSONALLY.",
+        "description": "As an agent for the UN's intelligence bureau, Master Raven embarked on her latest top-secret mission: Infiltrate the King of Iron Fist Tournament and confront her assigned target. In the frozen area that was to be her battleground, Master Raven stood, arms folded, face to face with her subordinate's sworn enemy, who simply narrowed his eyes and took up a fighting pose.",
+        "country": "Unknown",
+        "first_appearance": "Tekken 7",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/raven-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -54334,7 +54370,11 @@ export class HomePage {
       },
       {
         "name": "Miguel",
-        "motto": "",
+        "motto": "YOU LOOK LIKE YOU'RE READY TO LOSE.",
+        "description": "After losing his sister in an airstrike ordered by the Mishima Zaibatsu under the direction of Jin Kazama, Miguel Caballero Rojo devoted his life to seeking revenge. However, when Jin suddenly vanishes without a trace, Miguel's life purpose disappears along with him. From that point forward, Miguel began to wander like a specter from battle-torn town to battle-torn town. One day, as he ambled through rows of dilapidated buildings, he stumbled across a strangely familiar hooded man. There in front of him was none other than his sworn enemy, Jin. Consumed by both euphoria and rage, Miguel becomes frenzied and goes in for the kill.",
+        "country": "Spain",
+        "first_appearance": "Tekken 6",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-spain.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/miguel-standard/thumbnail-headshot.png",
         "special_moves": [
           {
