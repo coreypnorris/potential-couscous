@@ -56273,7 +56273,11 @@ export class HomePage {
       },
       {
         "name": "Nina",
-        "motto": "",
+        "motto": "YOU'VE GOT A DATE WITH DEATH",
+        "description": "After failing to apprehend Jin Kazama, Nina Williams decided it was time for her and the Mishima Zaibatsu to go their separate ways. On her first private assassination job, she was tasked with infiltrating a mafia wedding... posing as the bride! During the ceremony, a firefight broke out where Nina took out all her targets. However, the commotion had attracted the Tekken Force, who had been dispatched to suppress the violence, and they gave chase. With the Tekken Force in hot pursuit, Nina made her escape. That's when she bumped into a man she found vaguely familiar. The man wouldn't leave her alone. He seemed to have something he wanted to say to her... Nina decided that a confrontation was her best chance of escape.",
+        "first_appearance": "Tekken",
+        "country": "Ireland",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-ireland.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/nina-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -58582,7 +58586,11 @@ export class HomePage {
       },
       {
         "name": "Paul",
-        "motto": "",
+        "motto": "I'LL SHOW YOU THE POWER OF THE STRONGEST IN THE UNIVERSE… BUT NOT FOR FREE!",
+        "description": "When Paul Phoenix, the golden boy of the martial arts world, steps into the ring, the excitement in the crowd is palpable. But this time when his opponent's name rang over the arena's loudspeakers, he could only scratch his head in disbelief. It was Kuma... again! However, Kuma was nowhere to be seen. Word went round that the bear had dropped out of the tournament. The ring announcer informed the spectators of a last-minute change to the fight card. Relieved, Paul awaits the entrance of his long-anticipated human opponent...",
+        "first_appearance": "Tekken",
+        "country": "United States of America",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-united-states-of-america.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/paul-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -60141,7 +60149,11 @@ export class HomePage {
       },
       {
         "name": "Shaheen",
-        "motto": "",
+        "motto": "I DO NOT WISH TO HURT YOU, BUT I WILL FIGHT IF I MUST.",
+        "description": "Shaheen works for a private military firm specializing in the provision of security services. During his time in the army, he earned a reputation as an expert in one-on-one combat. One day, his friend and owner of a company involved in the oil industry died suddenly under mysterious circumstances. In the postmortem the death was listed as accidental, but Shaheen suspected foul play when his friend's company was suddenly bought by G Corporation and the management, all family members, resigned. He began to investigate the matter, and a relative of a close friend confided in him that a demonic man was pulling the strings at G Corp: Kazuya Mishima. Shaheen struggled to believe a real demon could exist, but his investigations revealed that Kazuya could be worse than any of hell's creations. Shaheen was torn: Should he take revenge for his friend's death by destroying that demon, or not? Wracked with doubt, he embarked on a solo mission to infiltrate G Corp.",
+        "first_appearance": "Tekken 7",
+        "country": "Saudi Arabia",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-saudi-arabia.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/shaheen-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -61330,7 +61342,11 @@ export class HomePage {
       },
       {
         "name": "Steve",
-        "motto": "",
+        "motto": "HEY YOU… YOU WANNA TRY ME?",
+        "description": "Steve Fox has had plenty of run-ins with the Mishima Zaibatsu, but he never gave up his search for information about his past. Though his mother's identity remained a mystery, one name in particular began to crop up time and again: Nina Williams. Believing she knew something, Steve began investigating her whereabouts until he came up with a promising lead. The information led him to an imposing cathedral. As he considered how best to proceed, a figure appeared from inside, dressed in a tattered wedding gown. It was Nina, who seemed to be running away from something. Steve told her to stop, but she ignored him and fled. Determined not to let this opportunity escape him, he blocked her path.",
+        "first_appearance": "Tekken 4",
+        "country": "England",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-england.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/steve-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -63849,7 +63865,11 @@ export class HomePage {
       },
       {
         "name": "Xiaoyu",
-        "motto": "",
+        "motto": "I'M GOING TO STOP JIN!",
+        "description": "Ling Xiaoyu infiltrated the Mishima Zaibatsu building in search of information relating to Jin Kazama's disappearance. Creeping deeper into the enemy territory under the guards' noses, she eventually hears Heihachi Mishima's voice coming from a room; he was giving orders about locating Jin. Just as Xiaoyu was about to sneak into the room, a man dressed all in white emerged and pushed her back. 'Take me to Jin!' Xiaoyu demanded, unflinching. The man stood there for a moment, before ordering Xiaoyu to follow him. He led her to the roof, then silently turned toward her, and readied himself to fight. Xiaoyu took up her fighting stance, and said, 'So that's how it is... If you think I'm just some little girl, you're sadly mistaken.'",
+        "first_appearance": "Tekken 3",
+        "country": "China",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-china.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/ling-standard/thumbnail-headshot.png",
         "special_moves": [
           {
@@ -66338,7 +66358,11 @@ export class HomePage {
       },
       {
         "name": "Yoshimitsu",
-        "motto": "",
+        "motto": "I AM PEERLESS",
+        "description": "With Heihachi reinstated as the CEO of the Mishima Zaibatsu, Yoshimitsu sensed something bad was afoot, and so entered the King of Iron Fist Tournament as way of confirming his suspicions. His infiltration point would be the Mishima dojo. It seemed like the perfect location for collecting intelligence, and even though the building would act as the arena for his tournament match, Yoshimitsu approached from the air just in case. When he entered the Mishima dojo, the place looked as though it had been hit by a typhoon. Waiting for Yoshimitsu in the gloom was a charming young martial artist. Yoshimitsu couldn't say for sure, but he thought he seemed a little 'tense...'. Though his looks were enchanting, he also seemed dangerous, so Yoshimitsu braced himself for battle.",
+        "first_appearance": "Tekken",
+        "country": "Unknown",
+        "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/yoshimitsu-standard/thumbnail-headshot.png",
         "special_moves": [
           {
