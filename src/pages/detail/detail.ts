@@ -24,7 +24,7 @@ export class DetailPage {
     this.character = navParams.data.item;
     this.initializeSpecialMoves();
     this.initializeBasicMoves();
-    this.infotype = "specialmoves"; // default segment button
+    this.infotype = "profile"; // default segment button
   }
 
   initializeSpecialMoves() {

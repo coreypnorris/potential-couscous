@@ -17,6 +17,7 @@ export class HomePage {
         "description": "A mysterious fighter… a demon. He finds himself in the middle of the Mishima blood feud by a pre-existing relationship with Kazumi, Hehiachi's wife. He makes his debut in Tekken 7 promising to fulfill a debt owed to Kazumi.",
         "country": "Unknown",
         "first_appearance": "Tekken 7",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-7.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/akuma-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -1569,6 +1570,7 @@ export class HomePage {
         "motto": "I AM ALISA, NICE TO MEET YOU",
         "description": "An android created by Dr. Bosconovitch as a bodyguard for Jin Kazama. Her design itself is modeled after Bosconovitch's own lost daughter. Her fighting capabilities are extremely high. She can perform attacks with high mobility using arm-mounted missiles and thrusters.",
         "first_appearance": "Tekken 6",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-6.png",
         "country": "Russia",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-russia.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/alisa-standard/thumbnail-headshot.png",
@@ -3822,6 +3824,7 @@ export class HomePage {
         "motto": "WHEN YOU RESORT TO FIGHTING, EVERYONE LOSES",
         "description": "Daughter of the Kazama Traditional Martial Arts School and known as 'Gang Mediator' in her hometown. Ever since she involved herself in a certain street fight, Lili has viewed her as a rival. She knows that Jin Kazama is her cousin and vows to take him down.",
         "first_appearance": "Tekken 5",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-5.png",
         "country": "Japan",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/asuka-standard/thumbnail-headshot.png",
@@ -5485,6 +5488,7 @@ export class HomePage {
         "motto": "SPEED AND WEIGHT!",
         "description": "Once a fighter who had won the hearts of fans with his excellent sensibility and handsome good looks, he decided to transform himself completely by gaining weight to eliminate the perceived disadvantage he had in a fight due to his body type. His fans were disappointed, as on the outside it looked like he'd merely put on a few too many pounds, but Bob was definitely pleased with himself.",
         "first_appearance": "Tekken 6",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-6.png",
         "country": "United States of America",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-united-states-of-america.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/bob-standard/thumbnail-headshot.png",
@@ -7578,6 +7582,7 @@ export class HomePage {
         "motto": "MWAHAHAHAHA! SO, WHICH ONE OF YOU WANTS TO DIE?",
         "description": "A savage fighter who uses a kickboxing fighting style. He's reported to have died twice and was somehow revived each time. He once belonged to an international police force, but Dr. Abel and Dr. Bosconovitch made him a replicant with a perpetual generator that keeps him alive.",
         "first_appearance": "Tekken 3",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-3.png",
         "country": "United States of America",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-united-states-of-america.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/bryan-standard/thumbnail-headshot.png",
@@ -9662,6 +9667,7 @@ export class HomePage {
         "description": "The Sirius Marksmen, a secret society of exorcists, has exerted a profound influence on European history for hundreds of years. The most powerful exorcist of the current generation is Claudio, who was visiting the Mishima Zaibatsu as their groups join forces to subdue a certain evil. After sharing information on the targets, Kazuya Mishima and Jin Kazama, Claudio left the control room only to be confronted by a young girl. He was about to call the guards when she demanded to be taken to Jin. A plan sprung to Claudios mind. He led her to the roof, and with a grin prepared to face her in combat.",
         "country": "Italy",
         "first_appearance": "Tekken 7",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-7.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-italy.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/claudio-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -10925,6 +10931,7 @@ export class HomePage {
         "description": "After he defeated Azazel, Jin Kazama was apprehended by UN troops. As his unconscious body was being transported by helicopter, he became possessed by his devil form, ripped free from his straitjacket, tore through the helicopter's fuselage with a powerful beam attack, and then escaped. Intermittently fending off the UNs attempts to recapture him, Devil Jin wandered the desert until he stumbled across a town in the Middle East. His arrival at the town's bazaar sent the civilians fleeing for their lives, turning the once buzzing settlement into an abandoned husk. That is until a certain someone showed his face...",
         "country": "Unknown",
         "first_appearance": "Tekken 5",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-5.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/devil-jin-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -12598,6 +12605,7 @@ export class HomePage {
         "description": "Sergei Dragunov entered the King of Iron Fist Tournament on army orders. At the designated arena of his first match, a woman appeared before him. There was something strangely familiar about her... It didnt take Dragunov long to figure out who she was, and he wasted no time in readying himself for combat.",
         "country": "Russia",
         "first_appearance": "Tekken 5",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-5.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-russia.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/dragunov-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -15031,6 +15039,7 @@ export class HomePage {
         "description": "Eddy Gordo went to G Corporation to exact revenge on Kazuya Mishima for murdering his father. After he'd taken out a crowd of guards, a young girl in a strange outfit stood before him, and struck a pose. Youre not getting past me, old man! Teehee! What did she mean by old man? Confused and irritated by her appearance and disrespectful tone, but aware of the threat she posed, Eddy prepared to fight.",
         "country": "Brazil",
         "first_appearance": "Tekken 3",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-3.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-brazil.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/eddy-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -17564,6 +17573,7 @@ export class HomePage {
         "description": "Eliza was only supposed to take a short nap, but she ended up sleeping for 600 years. Upon awakening, she found her powers as a vampire had faded to nothing. In an attempt to restore her strength, she consumed the blood of several victims. However, it wasn't enough. What she needed was the blood of someone with an intense spiritual force? Maybe then she would return to peak condition. But did such a person even exist in this era? No-one sprang to mind. Left with no other choice, Eliza headed for the old HQ of the clan of exorcists who had caused her no end of trouble when she last prowled the nights. Perhaps some of their descendants were still alive.",
         "country": "Unknown",
         "first_appearance": "Tekken Revolution",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-revolution.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/eliza-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -18997,6 +19007,7 @@ export class HomePage {
         "description": "Feng Wei had always abided by what was written on the God Fist scroll: Defeat all other masters and conquer their styles; the perfect warrior transcends all to become the Dragon God. Having fought masters of many different styles, Feng returned to his childhood training ground to continue his intense training regime. Then one day, an unexpected visitor appeared before Feng: a mysterious man who exuded strength. When the man made it clear that his desire was to fight, Feng had no reason to refuse. He accepted his opponent's challenge in silence, and prepared to battle.",
         "country": "China",
         "first_appearance": "Tekken 5",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-5.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-china.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/feng-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -21090,6 +21101,7 @@ export class HomePage {
         "description": "One of G Corporation's weapons divisions entered their latest biological weapon, Gigas, into the King of Iron Fist Tournament for two reasons: first, to pit the strength of their next-gen humanoid weapon against a similar weapon of G Corp's; and second, to provoke Heihachi Mishima. Ironically, the first battle was staged on the rooftop of G Corp's own Millennium Tower, possibly in retaliation for their affront to Heihachi. Unmoved by the striking beauty of the skyscraper, Gigas awaited his victim.",
         "country": "Unknown",
         "first_appearance": "Tekken 7",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-7.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/gigas-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -22543,6 +22555,7 @@ export class HomePage {
         "description": "The original leader of the Mishima Zaibatsu, and the fighter known as the King of the Iron Fist. Heihachi continues to fight for control of the Mishima Zaibatsu against his son, Kazuya, and his grandson, Jin. After having recovered from the injuries he sustained in the suicide attack on him from the G Corporation's Jack units, Heihachi is back with an iron fist--and body to match.",
         "country": "Japan",
         "first_appearance": "Tekken",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/heihachi-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -24046,6 +24059,7 @@ export class HomePage {
         "description": "Hwoarang sees one man as his rival: Jin Kazama. Jin, CEO of the Mishima Zaibatsu, declared war against the world, and in the ensuing turmoil vanished suddenly, without a trace. Suspecting there is more to Jin's disappearance than meets the eye, Hwoarang vowed to track him down. With only a shred of reliable information at hand, he headed to the Middle East. After a series of dead leads, Hwoarang heard word that a demon had appeared in a town. Without a second thought, he got on his motorcycle and hammered down there. When he arrived, the place had been deserted, save for Jin Kazama in his devil form.",
         "country": "South Korea",
         "first_appearance": "Tekken 3",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-3.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-south-korea.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/hwoarang-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -26549,6 +26563,7 @@ export class HomePage {
         "description": "It was no secret that G Corporation was locked in a power struggle with the Mishima Zaibatsu. However, within G Corp itself, another battle was raging: the battle to create the ultimate next-gen humanoid weapon. On one side was the development team behind the Jack series led by Jane; on the other was the research team responsible for Gigas, a bio-enhanced super human. With his massive size and uncanny mobility, Gigas was hailed for his versatility in combat, and some saw him as more than capable of dislodging the Jack series from its position as G Corp's premier weapon. Both teams entered their weapons into the King of Iron Fist Tournament to decide once and for all which was the best.",
         "country": "Russia",
         "first_appearance": "Tekken",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-russia.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/jack-7-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -28662,6 +28677,7 @@ export class HomePage {
         "description": "The leader of the Mishima Zaibatsu and the man who declared war on the world. Fighting the Devil inside him which gets stronger everyday, he yearns to be rid of it once and for all. When his battle is over at last, will he find hope… or despair?",
         "country": "Japan",
         "first_appearance": "Tekken 3",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-3.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/jin-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -30345,6 +30361,7 @@ export class HomePage {
         "description": "Josie Rizal tried her best to support her family by balancing two jobs. One as a model, and one as a professional kickboxer. One day, while she was out running on her usual training course along the mountain roads, she was suddenly confronted by an enormous, hairy creature! Josie screamed, and then fled half in tears, but the creature remained hot on her heels. Realizing she had little chance of escape, Josie abruptly came to a halt, then turned trembling, to face her feral foe...",
         "country": "Phillppines",
         "first_appearance": "Tekken 7",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-7.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-philippines.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/josie-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -31978,6 +31995,7 @@ export class HomePage {
         "description": "Katarina Alves lost both her parents at a young age, and spent several years at an orphanage before being adopted by a man she'd never met. Initially, Katarina rebelled against him using a whole manner of profane language, but the man's kindness and patience eventually wore her hard exterior down. In time, they grew close, though her penchant for profane language remained. One day, Katarina's adoptive father vanished. As much as she wanted to find him, she lacked the money to do so. But then she learned of the King of Iron Fist Tournament. The savage techniques the man had taught her gave Katarina hope that she could win and take the cash prize. The day of the first match arrived, and the arena was none other than the roof of G Corporation's Millennium Tower.",
         "country": "Brazil",
         "first_appearance": "Tekken 7",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-7.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-brazil.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/katarina-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -33381,6 +33399,7 @@ export class HomePage {
         "description": "Kazumi Mishima, wife of Heihachi Mishima, is well versed in Hachijyo Karate. She was childhood friends with her husband Heihachi and eventually they fell in love. Through their love they birthed a healthy young boy. Fast forward a few years later, Heihachi would become the head of a huge organization called the Mishima Zaibatsu, with plans to conquer the world. Kazumi loved Heihachi unconditionally, but at the same time he was beginning to feel dangerous. In this state, Heihachi threw the world into a war and Kazumi took it upon herself to stop him.",
         "country": "Japan",
         "first_appearance": "Tekken 7",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-7.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/kazumi-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -34694,6 +34713,7 @@ export class HomePage {
         "description": "Kazuya was raised as the heir to the Mishima Zaibatsu, but rebelled against his father Heihachi. After awakening the power of the devil within him, he's finally able to control it.",
         "country": "Japan",
         "first_appearance": "Tekken",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/kazuya-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -36297,6 +36317,7 @@ export class HomePage {
         "description": "King is not only a masked professional wrestler, but also the proud owner of an orphanage. Recently, King's sworn friend and comrade, Craig Marduk, as well as the man King called his master, both engaged in a bloody fight which left them with critical injuries. King desperately wanted to come to his friends' rescue, but knew that their operations wouldn't come cheap. At the same time, King's orphanage was in constant danger owing to the war that raged between G Corporation and the Mishima Zaibatsu. Finding himself caught between a rock and a hard place, King entered the King of Iron Fist Tournament with his eyes set firmly on the cash prize.",
         "country": "Mexico",
         "first_appearance": "Tekken",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-mexico.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/king-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -38250,6 +38271,7 @@ export class HomePage {
         "description": "The Mishima Zaibatsu dispatched Kuma, along with the Tekken Force, to the Philippines on the pretext of helping out with relief efforts after a monstrous typhoon. With the Zaibatsu's financial clout behind them, Kuma and the soldiers visited the stricken areas, gaining the trust of the locals. Before long, local youths, jobless after the disaster, came forward asking to join the Tekken Force. A recruitment test was quickly established and many young hopefuls went to the test location deep in the jungle. Unbeknownst to them, the final test was a fight against none other than Kuma himself! Some buckled under the pressure and quit, others were eliminated, but in the end one candidate remained: an athletic young woman. However, the girl took one look at Kuma and burst into tears! Kuma felt bad, but attacked anyway in order to complete his assignment.",
         "country": "Unknown",
         "first_appearance": "Tekken",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/kuma-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -40343,6 +40365,7 @@ export class HomePage {
         "description": "A former officer of the Mishima Zaibatsu's special military unit, the Tekken Force, Lars enacted a coup d'état and rebelled against his former employer. Lars continues to fight despite the loss of his fallen comrades, and his bloody rebellion is nowhere near finished.",
         "country": "Sweden",
         "first_appearance": "Tekken 6",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-6.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-sweden.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/lars-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -41896,6 +41919,7 @@ export class HomePage {
         "description": "Preoccupied with paying off his son's debts, Marshall Law didn't realize how many of his students had quit his dojo until it was almost too late. With a large sum still to repay, Law was running out of ideas. As a last resort, he decided to search for a capable fighter to run the dojo. He asked his friend Paul if he knew anyone, and in his usual manner, Paul said he himself would be the perfect candidate. However, thinking that the dojo would go bust in half a day if Paul took control, Law politely refused. Instead, he put the word out that if any strong fighters wanted to try out for the job, they should come and prove their skills in combat. Challenger after challenger appeared, but none of them were good enough for Law. Then, one day, Law heard a rumor that a martial artist living in rural China was set to be the next God Fist master. Seeing this as his best chance yet, Law set off for his ancestral homeland.",
         "country": "United States of America",
         "first_appearance": "Tekken",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-united-states-of-america.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/law-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -44509,6 +44533,7 @@ export class HomePage {
         "description": "The adopted son of Heihachi Mishima, raised to be a rival for Kazuya Mishima. After abandoning the Zaibatsu for various reasons, he ended up idling his time away in the Bahamas as manager of his own company… until a certain event disturbed his permanent vacation and entwined his fate with the Zaibatsu once again.",
         "country": "Japan",
         "first_appearance": "Tekken",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-japan.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/lee-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -46822,6 +46847,7 @@ export class HomePage {
         "description": "Leo entered the King of Iron Fist Tournament in the hope of uncovering more about his deceased mother, who had been a researcher for the Mishima Zaibatsu. When Leo learned that his battle arena was to be a Zaibatsu-owned dojo, he couldn't believe his luck. However, when he got there, the dojo was in ruin. The moonlight poured in through holes in the walls and roof, illuminating the floor with an eerie beauty. A short while later, a strange, floating silhouette appeared, and slowly glided toward Leo. The silhouette held a sword in its left hand that rotated at a mind-bending speed. What the hell was this thing? It looked like some kind of a flying squid or octopus! Was it a demon...? Then it finally dawned on Leo: This bizarre creature was his opponent. Cautiously, he prepared to fight.",
         "country": "Germany",
         "first_appearance": "Tekken 6",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-6.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-germany.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/leo-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -48705,6 +48731,7 @@ export class HomePage {
         "description": "Lili entered the King of Iron Fist Tournament again without telling her father this time either. There she was anyway, smiling as the rapturous crowd looked on and her opponent entered the arena. Lili was set to fight Asuka Kazama, someone she had personally considered her greatest rival for many years. If Lili saw the look of annoyance on Asuka's face, it didn't show; she just walked elegantly to the center of the ring like she owned it, all the while thanking Lady Luck for the opportunity to fight her rival.",
         "country": "Monaco",
         "first_appearance": "Tekken 5: Dark Resurrection",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-5-dark-resurrection.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-monaco.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/lili-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -50518,6 +50545,7 @@ export class HomePage {
         "description": "Lucky Chloe is a pop sensation, and the face of the G Corporation brand. When a mysterious man burst into G Corp and took out guard after guard with dance-like techniques, Lucky Chloe fearlessly walked right up to him and blocked his path. She threw the man one of her trademark smiles and issued him a challenge: Fight her, and if he loses he'll have to work as her backup dancer! Without caring if he'd accepted the conditions or not, she prepared for battle.",
         "country": "Unknown",
         "first_appearance": "Tekken 7",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-7.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/lucky-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -52071,6 +52099,7 @@ export class HomePage {
         "description": "As an agent for the UN's intelligence bureau, Master Raven embarked on her latest top-secret mission: Infiltrate the King of Iron Fist Tournament and confront her assigned target. In the frozen area that was to be her battleground, Master Raven stood, arms folded, face to face with her subordinate's sworn enemy, who simply narrowed his eyes and took up a fighting pose.",
         "country": "Unknown",
         "first_appearance": "Tekken 7",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-7.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/raven-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -54374,6 +54403,7 @@ export class HomePage {
         "description": "After losing his sister in an airstrike ordered by the Mishima Zaibatsu under the direction of Jin Kazama, Miguel Caballero Rojo devoted his life to seeking revenge. However, when Jin suddenly vanishes without a trace, Miguel's life purpose disappears along with him. From that point forward, Miguel began to wander like a specter from battle-torn town to battle-torn town. One day, as he ambled through rows of dilapidated buildings, he stumbled across a strangely familiar hooded man. There in front of him was none other than his sworn enemy, Jin. Consumed by both euphoria and rage, Miguel becomes frenzied and goes in for the kill.",
         "country": "Spain",
         "first_appearance": "Tekken 6",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-6.png",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-spain.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/miguel-standard/thumbnail-headshot.png",
         "special_moves": [
@@ -56276,6 +56306,7 @@ export class HomePage {
         "motto": "YOU'VE GOT A DATE WITH DEATH",
         "description": "After failing to apprehend Jin Kazama, Nina Williams decided it was time for her and the Mishima Zaibatsu to go their separate ways. On her first private assassination job, she was tasked with infiltrating a mafia wedding... posing as the bride! During the ceremony, a firefight broke out where Nina took out all her targets. However, the commotion had attracted the Tekken Force, who had been dispatched to suppress the violence, and they gave chase. With the Tekken Force in hot pursuit, Nina made her escape. That's when she bumped into a man she found vaguely familiar. The man wouldn't leave her alone. He seemed to have something he wanted to say to her... Nina decided that a confrontation was her best chance of escape.",
         "first_appearance": "Tekken",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken.png",
         "country": "Ireland",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-ireland.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/nina-standard/thumbnail-headshot.png",
@@ -58589,6 +58620,7 @@ export class HomePage {
         "motto": "I'LL SHOW YOU THE POWER OF THE STRONGEST IN THE UNIVERSE… BUT NOT FOR FREE!",
         "description": "When Paul Phoenix, the golden boy of the martial arts world, steps into the ring, the excitement in the crowd is palpable. But this time when his opponent's name rang over the arena's loudspeakers, he could only scratch his head in disbelief. It was Kuma... again! However, Kuma was nowhere to be seen. Word went round that the bear had dropped out of the tournament. The ring announcer informed the spectators of a last-minute change to the fight card. Relieved, Paul awaits the entrance of his long-anticipated human opponent...",
         "first_appearance": "Tekken",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken.png",
         "country": "United States of America",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-united-states-of-america.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/paul-standard/thumbnail-headshot.png",
@@ -60152,6 +60184,7 @@ export class HomePage {
         "motto": "I DO NOT WISH TO HURT YOU, BUT I WILL FIGHT IF I MUST.",
         "description": "Shaheen works for a private military firm specializing in the provision of security services. During his time in the army, he earned a reputation as an expert in one-on-one combat. One day, his friend and owner of a company involved in the oil industry died suddenly under mysterious circumstances. In the postmortem the death was listed as accidental, but Shaheen suspected foul play when his friend's company was suddenly bought by G Corporation and the management, all family members, resigned. He began to investigate the matter, and a relative of a close friend confided in him that a demonic man was pulling the strings at G Corp: Kazuya Mishima. Shaheen struggled to believe a real demon could exist, but his investigations revealed that Kazuya could be worse than any of hell's creations. Shaheen was torn: Should he take revenge for his friend's death by destroying that demon, or not? Wracked with doubt, he embarked on a solo mission to infiltrate G Corp.",
         "first_appearance": "Tekken 7",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-7.png",
         "country": "Saudi Arabia",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-saudi-arabia.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/shaheen-standard/thumbnail-headshot.png",
@@ -61345,6 +61378,7 @@ export class HomePage {
         "motto": "HEY YOU… YOU WANNA TRY ME?",
         "description": "Steve Fox has had plenty of run-ins with the Mishima Zaibatsu, but he never gave up his search for information about his past. Though his mother's identity remained a mystery, one name in particular began to crop up time and again: Nina Williams. Believing she knew something, Steve began investigating her whereabouts until he came up with a promising lead. The information led him to an imposing cathedral. As he considered how best to proceed, a figure appeared from inside, dressed in a tattered wedding gown. It was Nina, who seemed to be running away from something. Steve told her to stop, but she ignored him and fled. Determined not to let this opportunity escape him, he blocked her path.",
         "first_appearance": "Tekken 4",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-4.png",
         "country": "England",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-england.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/steve-standard/thumbnail-headshot.png",
@@ -63868,6 +63902,7 @@ export class HomePage {
         "motto": "I'M GOING TO STOP JIN!",
         "description": "Ling Xiaoyu infiltrated the Mishima Zaibatsu building in search of information relating to Jin Kazama's disappearance. Creeping deeper into the enemy territory under the guards' noses, she eventually hears Heihachi Mishima's voice coming from a room; he was giving orders about locating Jin. Just as Xiaoyu was about to sneak into the room, a man dressed all in white emerged and pushed her back. 'Take me to Jin!' Xiaoyu demanded, unflinching. The man stood there for a moment, before ordering Xiaoyu to follow him. He led her to the roof, then silently turned toward her, and readied himself to fight. Xiaoyu took up her fighting stance, and said, 'So that's how it is... If you think I'm just some little girl, you're sadly mistaken.'",
         "first_appearance": "Tekken 3",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken-3.png",
         "country": "China",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-china.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/ling-standard/thumbnail-headshot.png",
@@ -66361,6 +66396,7 @@ export class HomePage {
         "motto": "I AM PEERLESS",
         "description": "With Heihachi reinstated as the CEO of the Mishima Zaibatsu, Yoshimitsu sensed something bad was afoot, and so entered the King of Iron Fist Tournament as way of confirming his suspicions. His infiltration point would be the Mishima dojo. It seemed like the perfect location for collecting intelligence, and even though the building would act as the arena for his tournament match, Yoshimitsu approached from the air just in case. When he entered the Mishima dojo, the place looked as though it had been hit by a typhoon. Waiting for Yoshimitsu in the gloom was a charming young martial artist. Yoshimitsu couldn't say for sure, but he thought he seemed a little 'tense...'. Though his looks were enchanting, he also seemed dangerous, so Yoshimitsu braced himself for battle.",
         "first_appearance": "Tekken",
+        "first_appearance_img":"http://tk7.tekken.com/assets/images/logos/tekken.png",
         "country": "Unknown",
         "flag": "http://tk7.tekken.com/assets/images/flags/flag-unknown.jpg",
         "img": "http://tk7.tekken.com/assets/images/fighters-final/yoshimitsu-standard/thumbnail-headshot.png",
