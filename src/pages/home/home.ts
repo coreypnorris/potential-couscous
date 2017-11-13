@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
-import { NavController } from 'ionic-angular';
+import { NavController, ModalController } from 'ionic-angular';
 import { DetailPage } from '../detail/detail';
+import { AboutPage } from '../about/about';
 
 @Component({
   selector: 'page-home',
@@ -9,7 +10,7 @@ import { DetailPage } from '../detail/detail';
 export class HomePage {
   items: any;
 
-  constructor(public navCtrl: NavController) {
+  constructor(public navCtrl: NavController, public modalCtrl: ModalController) {
     this.items = [
       {
         "name": "Akuma",
@@ -70486,6 +70487,10 @@ export class HomePage {
         ]
       }
     ];
+  }
+
+  aboutPage() {
+    this.navCtrl.push(AboutPage);
   }
 
   itemSelected(item) {

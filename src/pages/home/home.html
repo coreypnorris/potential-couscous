@@ -1,11 +1,15 @@
 <ion-header>
   <ion-navbar>
-    <ion-title>Home</ion-title>
+    <ion-title style="text-align:center;">Tekken 7 Frame Tool</ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content>
   <ion-list>
+    <ion-item (click)="aboutPage()" class="item-icon-avatar">
+      <ion-icon name="ios-contact" item-start style="font-size:4.4rem;"></ion-icon>
+      <h2>About</h2>
+    </ion-item>
     <ion-item (click)="itemSelected(item)" *ngFor="let item of items">
       <ion-avatar item-start>
         <img src="{{item.img}}">

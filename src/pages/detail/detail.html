@@ -40,7 +40,7 @@
       <div *ngSwitchCase="'basicmoves'">
         <ion-searchbar (ionInput)="getBasicMoves($event)" placeholder="Basic Moves"></ion-searchbar>
         <ion-list>
-          <ion-item *ngFor="let move of basic_moves">
+          <ion-item *ngFor="let move of basic_moves" (click)="moveSelected(move)">
             {{ move.command }}
           </ion-item>
         </ion-list>
