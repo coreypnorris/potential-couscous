@@ -33,3 +33,5 @@ $RECYCLE.BIN/
 .DS_Store
 Thumbs.db
 UserInterfaceState.xcuserstate
+myapp-release-key.keystore
+zipalign.exe
